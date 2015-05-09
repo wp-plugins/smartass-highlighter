@@ -5,7 +5,7 @@ Tags: SmartAss,highlighter,wordpress code highlight,wp code,code highlighter,sou
 License: MIT License
 Requires at least: 2.7
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 SmartAss Highlighter is extremely simple and easy to use syntax highlighter for your code. Shortcode - [highlighter]
 

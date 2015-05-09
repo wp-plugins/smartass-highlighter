@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: SmartAss,highlighter,wordpress code highlight,wp code,code highlighter,sourcecode,wp prettify,wp code prettify,syntax,javascript,highlight,code,formatting,google code prettify,code button,quicktags,html,xhtml,css,syntax highlighter,google syntax highlighter,code highlighter,code snippet,codecolorer,source,articles,post
 License: MIT License
 Requires at least: 2.7
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 
 SmartAss Highlighter is extremely simple and easy to use syntax highlighter for your code. Shortcode - [highlighter]
